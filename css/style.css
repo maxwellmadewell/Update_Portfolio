@@ -610,7 +610,7 @@ img {
 #gradient {
     position: static;
     z-index:2;
-	right:0; bottom: -270px; left:0; 
+	right:0; bottom: -400px; left:0; 
 	height:160px;
     background: none;
     background: -moz-linear-gradient(top,  rgba(56,12,91,0) 0%, rgba(56,12,91,1) 80%);
