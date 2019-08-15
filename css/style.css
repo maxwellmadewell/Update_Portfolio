@@ -398,7 +398,7 @@ img {
 	.main-menu ul .search-btn {
 		margin-left: 62px;
 	}
-	.col-md-4 {
+	.col-md-3 {
 		text-align: center;
 	}
 }
@@ -440,7 +440,7 @@ img {
 		height: 500px;
 		width: 100%;
 	}
-	.col-md-4 {
+	.col-md-3 {
 		text-align: center;
 	}
 }
@@ -552,7 +552,7 @@ img {
 		width: 100%;
 	}
 
-	.col-md-4 {
+	.col-md-3 {
 		text-align: center;
 	}
 }
@@ -564,7 +564,7 @@ img {
 	.section-title h2 {
 		font-size: 30px;
 	}
-	.col-md-4 {
+	.col-md-3 {
 		text-align: center;
 	}
 
@@ -614,7 +614,7 @@ img {
 	text-decoration: none;
 	cursor: pointer;
   }
-  .col-md-4 {
+  .col-md-3 {
 	text-align: center;
 }
 
